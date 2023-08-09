@@ -1,3 +1,6 @@
+layout: page
+title: "Welcome to my Page!"
+permalink: /about
 theme: minima
 title: Donovan's Homepage
 description: Bookmark this to keep an eye on my project updates!
